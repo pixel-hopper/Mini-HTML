@@ -23,13 +23,10 @@
 
 ## 🌟 Attribution
 
-**Tkinter**: Core GUI library used to build the user interface.  
-👉 [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
+**Tkinter**: Core GUI library used to build the user interface. [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
 
-**Regular Expressions**: Used to safely remove unneeded whitespace while preserving code integrity.  
-👉 [Python `re` module](https://docs.python.org/3/library/re.html)
+**Regular Expressions**: Used to safely remove unneeded whitespace while preserving code integrity. [Python `re` module](https://docs.python.org/3/library/re.html)
 
 ## 🌟 About Me
 
-Artist that likes to code when my textures are baking.  
-🎨 [Artstation](https://www.artstation.com/jaimerodriguez/)
+Artist that likes to code when my textures are baking. [Artstation](https://www.artstation.com/jaimerodriguez/)
